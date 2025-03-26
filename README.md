@@ -1,3 +1,3 @@
 # Thomas Smelter
 
-Data analytics and operations with passion for mental health and combating misinformation
+Combining skills of data analytics and operations with interests in mental health and combating misinformation
